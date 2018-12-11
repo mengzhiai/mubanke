@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+
+# Nuxt generate
+/dist
+
+/.nuxt
+
+.vscode/
+
+build
+
+server
